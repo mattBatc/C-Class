@@ -1,0 +1,7 @@
+E:\Documents\School\c#\Assignment 2\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+E:\Documents\School\c#\Assignment 2\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+E:\Documents\School\c#\Assignment 2\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+E:\Documents\School\c#\Assignment 2\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+E:\Documents\School\c#\Assignment 2\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+E:\Documents\School\c#\Assignment 2\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+E:\Documents\School\c#\Assignment 2\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb

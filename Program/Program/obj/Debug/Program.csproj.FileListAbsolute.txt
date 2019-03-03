@@ -1,0 +1,7 @@
+E:\Documents\School\c#\Program\Program\bin\Debug\Program.exe.config
+E:\Documents\School\c#\Program\Program\bin\Debug\Program.exe
+E:\Documents\School\c#\Program\Program\bin\Debug\Program.pdb
+E:\Documents\School\c#\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+E:\Documents\School\c#\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\Documents\School\c#\Program\Program\obj\Debug\Program.exe
+E:\Documents\School\c#\Program\Program\obj\Debug\Program.pdb

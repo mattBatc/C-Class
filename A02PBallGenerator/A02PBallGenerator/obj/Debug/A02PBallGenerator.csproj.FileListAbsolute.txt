@@ -1,0 +1,7 @@
+E:\Documents\School\c#\A02PBallGenerator\A02PBallGenerator\bin\Debug\A02PBallGenerator.exe.config
+E:\Documents\School\c#\A02PBallGenerator\A02PBallGenerator\bin\Debug\A02PBallGenerator.exe
+E:\Documents\School\c#\A02PBallGenerator\A02PBallGenerator\bin\Debug\A02PBallGenerator.pdb
+E:\Documents\School\c#\A02PBallGenerator\A02PBallGenerator\obj\Debug\A02PBallGenerator.csprojResolveAssemblyReference.cache
+E:\Documents\School\c#\A02PBallGenerator\A02PBallGenerator\obj\Debug\A02PBallGenerator.csproj.CoreCompileInputs.cache
+E:\Documents\School\c#\A02PBallGenerator\A02PBallGenerator\obj\Debug\A02PBallGenerator.exe
+E:\Documents\School\c#\A02PBallGenerator\A02PBallGenerator\obj\Debug\A02PBallGenerator.pdb
