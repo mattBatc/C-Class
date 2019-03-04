@@ -1,0 +1,12 @@
+D:\Documents\Programming\c#\Project4\Project4\bin\Debug\Project4.exe.config
+D:\Documents\Programming\c#\Project4\Project4\bin\Debug\Project4.exe
+D:\Documents\Programming\c#\Project4\Project4\bin\Debug\Project4.pdb
+D:\Documents\Programming\c#\Project4\Project4\obj\Debug\Project4.csprojAssemblyReference.cache
+D:\Documents\Programming\c#\Project4\Project4\obj\Debug\Project4.Form1.resources
+D:\Documents\Programming\c#\Project4\Project4\obj\Debug\Project4.Properties.Resources.resources
+D:\Documents\Programming\c#\Project4\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+D:\Documents\Programming\c#\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\c#\Project4\Project4\obj\Debug\Project4.exe
+D:\Documents\Programming\c#\Project4\Project4\obj\Debug\Project4.pdb
+D:\Documents\Programming\c#\Project4\Project4\obj\Debug\Project4.FrnAbout.resources
+D:\Documents\Programming\c#\Project4\Project4\obj\Debug\Project4.FrmDisplayAllCustomers.resources
